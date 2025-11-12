@@ -94,19 +94,4 @@ Me encanta aprender nuevas tecnologías y enfrentar desafíos que impulsen mi cr
 
 ---
 
-## 📄 Mi CV  
-> Puedes subir tu PDF al repositorio y cambiar la URL aquí.
-
-📥 **[Descargar CV en PDF]([./cv%20Edu.pdf])**
-
----
-
-## ⚡ Extras (Opcionales)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical">
-</p>
-
----
-
 <h3 align="center">✨ ¡Gracias por visitar mi perfil! ✨</h3>
