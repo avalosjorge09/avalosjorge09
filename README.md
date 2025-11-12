@@ -97,7 +97,7 @@ Me encanta aprender nuevas tecnologías y enfrentar desafíos que impulsen mi cr
 ## 📄 Mi CV  
 > Puedes subir tu PDF al repositorio y cambiar la URL aquí.
 
-📥 **[Descargar CV en PDF]([./cv%20Edu.pdf](https://github.com/avalosjorge09/avalosjorge09/blob/main/cv%20Edu.pdf))**
+📥 **[Descargar CV en PDF]([./cv%20Edu.pdf])**
 
 ---
 
